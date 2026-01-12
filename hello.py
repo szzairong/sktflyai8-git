@@ -1,6 +1,6 @@
 print("hello World")
 
 for i in range(5):
-    for j in range(5):
-        print("0",end='')
+    for j in range(8):
+        print("X",end='')
     print()
